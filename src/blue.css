@@ -1,0 +1,80 @@
+.Topnav{
+    border: 2px solid rgb(21, 160, 206);
+    background-color:rgb(21, 160, 206);
+    color: white;
+    text-align: center;
+    width:60%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.lower{
+   
+   
+    width:60%;
+    margin: auto;
+    margin-top: 15px;
+   display: flex;
+   /* padding-right: 10px; */
+   height: 40vh;
+
+}
+.boxL{
+  
+    color: rgb(226, 117, 117);
+    width:32%;
+}
+.boxM{
+    border: 2px solid rgb(21, 160, 206);
+    background-color:rgb(21, 160, 206);
+    color: white;
+    width:32%;
+    margin-left: 12px;
+}
+.boxM h6{
+    padding-top: 70px;
+}
+.boxR{
+    border: 2px solid rgb(21, 160, 206);
+    background-color:rgb(21, 160, 206);
+    color: white;
+    width:32%;
+    margin-left: 12px;
+    height:17vh;
+    /* padding-right: 10px; */
+}
+.boxR h6{
+    padding-top: 30px;
+}
+.upperB{
+    border: 2px solid rgb(21, 160, 206);
+    background-color:rgb(21, 160, 206);
+    color:white;
+    height: 19vh;
+    width:100%;
+}
+.lowerB{
+    border: 2px solid rgb(21, 160, 206);
+    background-color:rgb(21, 160, 206);
+    color: white;
+    width:100%;
+    margin-top: 12px;
+    height: 19vh;
+}
+h6{
+    text-align: center;
+}
+.upperB h6{
+    padding-top: 30px;
+}
+.lowerB h6{
+    padding-top: 30px;
+}
+
+
+
+
+
+
+
+
